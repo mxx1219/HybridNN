@@ -9,9 +9,9 @@ APSEC 2023: Improving Vulnerability Detection with Hybrid Code Graph Representat
 
 - [FFmpeg+QEMU Dataset](https://sites.google.com/view/devign)
 
-- [Chromium+Debian](https://bit.ly/3bX30ai)
+- [Chromium+Debian Dataset](https://bit.ly/3bX30ai)
 
-- [CWE](https://bhpan.buaa.edu.cn/link/AA38E07026F3484DD29E3CD043A36D9D17)
+- [CWE Dataset](https://bhpan.buaa.edu.cn/link/AA38E07026F3484DD29E3CD043A36D9D17)
 
 
 ## Overview of HybridNN
